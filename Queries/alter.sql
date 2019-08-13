@@ -1,0 +1,1 @@
+INSERT INTO member(member_id,fname,mname,lname,gender,joindate,dob,email,points,phone,alternate_phone,city,state,country) VALUES(NULL,'fdd','hfh','fhf,'Male',NOW(),'1997-07-03','jhd@g.com',0,'7895455589',NULL,'Akalkot','Maharashtra','India');
